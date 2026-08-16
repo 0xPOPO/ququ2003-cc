@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.ququ2003.cc/sitemap.xml
